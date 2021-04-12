@@ -1,3 +1,8 @@
+# Changes
+This repository was originally accessed from https://github.com/rayryeng/XiaohuLuVPDetection. Due to OpenCV having the Line Segment Detector removed from its library you will also need to download the library PyLSD-nova which can be found here - https://pypi.org/project/pylsd-nova/
+
+This code base has been changed so that it makes use of the pylsd line segment detector, however some parameters that were available in the openCV LSD is not available in the PyLSD algorithm.
+
 # XiaohuLuVPDetection
 This is a Python + OpenCV implementation of the Vanishing Point algorithm by Xiaohu Lu et al. - http://xiaohulugo.github.io/papers/Vanishing_Point_Detection_WACV2017.pdf
 
