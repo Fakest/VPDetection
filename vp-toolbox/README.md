@@ -1,3 +1,6 @@
+# Changes
+Like Xiao Hu Lu, we have had to replace the cv2LSD function with the PyLSD function. This solution is not optimal as previously cv2 would use 
+
 # VP Toolbox
 
 Vanishing point detection toolbox
