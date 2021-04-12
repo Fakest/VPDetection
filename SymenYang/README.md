@@ -1,3 +1,6 @@
+#Symen Yang Vanishing point detection changes
+This project was originally found at https://github.com/SymenYang/Vanish-Point-Detection. This project has had minimal changes to it, we have updated the code so that it now runs using python 3
+
 # Vanish-Point-Detect
 #### 阳希明 Yang Ximing
 #### Fudan University
