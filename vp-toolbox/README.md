@@ -1,5 +1,5 @@
 # Changes
-Like Xiao Hu Lu, we have had to replace the cv2LSD function with the PyLSD function. This solution is not optimal as previously cv2 would use 
+Like Xiao Hu Lu, we have had to replace the cv2LSD function with the PyLSD function. This solution is not optimal as previously cv2 would return data that would be used to ensure that detected line segments met certain criteria when being considered, such as lines being a specific size or the lines must meet a certain precision value. This does not seem to have effected the accuracy of the algorithm, however the algorithm may run slower due to having more lines to cluster.
 
 # VP Toolbox
 
